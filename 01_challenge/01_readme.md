@@ -1,0 +1,1 @@
+Just enabled linter and found wrong operator in if statement
