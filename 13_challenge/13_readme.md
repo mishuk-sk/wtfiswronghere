@@ -1,0 +1,1 @@
+Fixed function name, semicolon and quote missings
