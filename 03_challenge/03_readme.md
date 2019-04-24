@@ -1,0 +1,1 @@
+Linter is not helpful anymore:) By the way I've noticed error without reading traceback. Just replaced string with appropriate integer.
